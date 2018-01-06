@@ -1,9 +1,9 @@
 function hearthStone() {
-    console.log("운빨ㅈ망겜");
+    console.log("hearthStone");
 }
 
 function overwatch() {
-    console.log("그냥 망한겜");
+    console.log("overwatch");
 }
 
 module.exports.HearthStone= hearthStone();

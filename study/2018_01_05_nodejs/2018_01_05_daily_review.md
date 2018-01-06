@@ -21,3 +21,16 @@ Some of the blogs are written by Korean bloggers. I am sorry about this point.
 
 ### Usage of Markdown 
 
+I was wondering how to record the daily work and chose to record it as a Markdown document.
+I looked up usage of Markdown. 
+- [마크다운 사용법(Markdown Usage)](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+- [StackEdit](https://stackedit.io/editor#publish-a-document)
+
+So I wrote down 2 documents by using Markdown grammer. 
+Those are in docs directory.(But these were written in Korean)
+
+### Future Plans
+
+It will take a few more days to get used to Reacts and Nodejs.
+I will study more through these sites.
+
