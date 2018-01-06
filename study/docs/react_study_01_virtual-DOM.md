@@ -1,8 +1,6 @@
 # React.js 스터디
-=====================
 
 ## Virtual DOM(가상 돔) 이란?
--------------------------------
 
 - 가상 돔은 리액트에서 나온 개념이 아니지만, 리액트에서 쓰이는 개념이다.
 - 쉽게 말하면 HTML DOM의 추상화된 개념!
@@ -25,7 +23,7 @@ var CommentBox = React.createClass({
 1. render 부분에 HTML을 반환해준다.
 2. class 속성을 className으로 바꿔준다. (class는 js에서 사용되는 예약어라서..)
 
-- DOM과의 차이점이 있다면,
+DOM과의 차이점이 있다면,
 * key, ref 그리고 dangerouslySetInnerHTML은 돔에 없는 속성이다.
 * 리액트스러운 가상 돔은 몇 가지 제약을 더 소개해준다.
 
@@ -51,5 +49,3 @@ ReactDOM.render(root, document.getElementById('example'));
 // If you are surprised by the fact that `render`
 // comes from `ReactDOM` package, see the Post Scriptum.
 ```
-
-- JSX는 HTML태그를 R
